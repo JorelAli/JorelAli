@@ -4,7 +4,7 @@ _I like compilers, Java and creating Bukkit plugins_
 
 ![Jorel's github stats](https://github-readme-stats.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-## Latest blog posts
+### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Simplifying Bukkit ProxiedCommandSenders](https://blog.jorel.dev/Simplifying-Bukkit-CommandSenders/)
 - [Adding a page table of contents to mdBook](https://blog.jorel.dev/mdbook-pagetoc/)
