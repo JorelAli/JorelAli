@@ -6,9 +6,9 @@ _I like compilers, Java and creating Bukkit plugins_
 
 ### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hotswappable Spigot Plugins](https://blog.jorel.dev/Hotswappable-Spigot-Plugins/)
 - [Simplifying Bukkit ProxiedCommandSenders](https://blog.jorel.dev/Simplifying-Bukkit-CommandSenders/)
 - [Adding a page table of contents to mdBook](https://blog.jorel.dev/mdbook-pagetoc/)
 - [Making a better programming language](https://blog.jorel.dev/Making-A-Better-Programming-Language/)
 - [Java Tips &amp;amp; Tricks &lpar;2/2&rpar;](https://blog.jorel.dev/Java-Tips-And-Tricks-2/)
-- [Java Tips &amp;amp; Tricks &lpar;1/2&rpar;](https://blog.jorel.dev/Java-Tips-And-Tricks-1/)
 <!-- BLOG-POST-LIST:END -->
