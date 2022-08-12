@@ -3,7 +3,6 @@
 _I like compilers, Java and creating Bukkit plugins_
 
 - 🖥️ Currently maintaining the [CommandAPI](https://github.com/JorelAli/CommandAPI) Bukkit/Spigot API
-- ⚒️ Recently contributed to [minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader)
 
 ![Jorel's github stats](https://github-readme-stats.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
