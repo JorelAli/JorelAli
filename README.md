@@ -2,9 +2,10 @@
 
 _I like compilers, Java and creating Bukkit plugins_
 
-- 🖥️ Currently maintaining the [CommandAPI](https://github.com/JorelAli/CommandAPI) Bukkit/Spigot API
+- 🖥️ Currently maintaining the [CommandAPI](https://github.com/JorelAli/CommandAPI) Bukkit/Spigot/Paper/Velocity plugin
+- 🎮 Currently designing a Rust backend web-based equivalent of a physical card game that I created during a Game Jam while at University
 
-![Jorel's github stats](https://github-readme-stats.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Jorel's github stats](https://github-readme-stats.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
