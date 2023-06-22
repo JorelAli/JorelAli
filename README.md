@@ -1,11 +1,31 @@
 # Hi there, I'm Jorel 👋
 
-_I like compilers, Java and creating Bukkit plugins_
+_I like compilers, Java, functional programming languages, programming language design and creating Bukkit plugins_
 
-- 🖥️ Currently maintaining the [CommandAPI](https://github.com/JorelAli/CommandAPI) Bukkit/Spigot/Paper/Velocity plugin
-- 🎮 Currently designing a Rust backend web-based equivalent of a physical card game that I created during a Game Jam while at University
+- 🖥️ I'm currently maintaining the [CommandAPI](https://github.com/JorelAli/CommandAPI) Bukkit/Spigot/Paper/Velocity plugin
+- 🎮 I'm currently designing a Rust backend web-based equivalent of a physical card game that I created during a Game Jam while at University
 
-![Jorel's github stats](https://github-readme-stats.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
+<div align="center">
+  
+![Jorel's github stats](https://github-readme-stats.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com?user=JorelAli&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=467&background=1A1B27&currStreakNum=38BDAE&hide_total_contributions=true)](https://git.io/streak-stats)
+
+<table>
+  <tr>
+    <td>
+      <p align="center">Things I'm good at</p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,html,java,js,jquery,latex,md,nodejs,regex,ts&perline=6" />
+      </a>
+    </td>
+    <td>
+      <p align="center">Tools I use on a daily basis</p>
+      <p><img src="https://skillicons.dev/icons?i=eclipse,git,github,githubactions,maven,neovim,vscode&perline=6" /></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
