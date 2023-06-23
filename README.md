@@ -14,16 +14,16 @@ _I like compilers, Java, functional programming languages, programming language 
     <td>
       <p align="center">Things I'm good at</p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,js,cpp,nodejs,regex,latex,css,html,bootstrap,jquery,md,ts&perline=6" />
+        <img src="https://skillicons.dev/icons?i=java,js,cpp,nodejs,regex,latex,css,html,bootstrap,md&perline=6" />
       </a>
     </td>
     <td>
       <p align="center">Tools I use on a daily basis</p>
-      <p><img src="https://skillicons.dev/icons?i=eclipse,git,github,githubactions,maven,neovim,vscode&perline=4" /></p>
+      <p><img src="https://skillicons.dev/icons?i=eclipse,git,github,maven,neovim,vscode&perline=4" /></p>
     </td>
     <td>
       <p align="center">Things I'm learning</p>
-      <p align="center"><img align="center" src="https://skillicons.dev/icons?i=rust&perline=6" /></p>
+      <p align="center"><img align="center" src="https://skillicons.dev/icons?i=rust,ts&perline=1" /></p>
     </td>
   </tr>
 </table>
