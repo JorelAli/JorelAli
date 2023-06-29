@@ -33,9 +33,9 @@ _I like compilers, Java, functional programming languages, programming language 
 
 ### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [mvnd is amazing!](https://blog.jorel.dev/Mvnd-is-amazing/)
 - [Hotswappable Spigot Plugins](https://blog.jorel.dev/Hotswappable-Spigot-Plugins/)
 - [Simplifying Bukkit ProxiedCommandSenders](https://blog.jorel.dev/Simplifying-Bukkit-CommandSenders/)
 - [Adding a page table of contents to mdBook](https://blog.jorel.dev/mdbook-pagetoc/)
 - [Making a better programming language](https://blog.jorel.dev/Making-A-Better-Programming-Language/)
-- [Java Tips &amp;amp; Tricks &lpar;2/2&rpar;](https://blog.jorel.dev/Java-Tips-And-Tricks-2/)
 <!-- BLOG-POST-LIST:END -->
