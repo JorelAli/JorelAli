@@ -7,7 +7,7 @@ _I like compilers, Java, functional programming languages, programming language 
 
 <div align="center">
   
-![Jorel's github stats](https://github-readme-stats-k146-jorelali.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&card_width=400&rank_icon=percentile&custom_title=Jorel%27s%20GitHub%20Stats) [![GitHub Streak](https://streak-stats.demolab.com?user=JorelAli&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=350&background=1A1B27&currStreakNum=38BDAE&hide_total_contributions=true)](https://git.io/streak-stats)
+![Jorel's github stats](https://github-readme-stats-k146-jorelali.vercel.app/api?username=JorelAli&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&card_width=400&rank_icon=percentile&custom_title=Jorel%27s%20GitHub%20Stats)
 <br>
 ![Languages I've used in the past week](https://github-readme-stats-k146.vercel.app/api/wakatime?username=JorelAli&langs_count=10&theme=monokai&bg_color=1a1b27&text_color=38bdae&title_color=6a9bed&custom_title=Languages%20I%27ve%20used%20in%20the%20past%20week&layout=compact&hide_border=true)
 
