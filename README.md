@@ -33,9 +33,9 @@ _I like compilers, Java, functional programming languages, programming language 
 
 ### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing sign-artifacts failing on Windows](https://blog.jorel.dev/posts/Signing-mvn-artifacts-bug/)
 - [mvnd is amazing!](https://blog.jorel.dev/posts/Mvnd-is-amazing/)
 - [Hotswappable Spigot Plugins](https://blog.jorel.dev/posts/Hotswappable-Spigot-Plugins/)
 - [Simplifying Bukkit ProxiedCommandSenders](https://blog.jorel.dev/posts/Simplifying-Bukkit-CommandSenders/)
 - [Adding a page table of contents to mdBook](https://blog.jorel.dev/posts/mdbook-pagetoc/)
-- [Making a better programming language](https://blog.jorel.dev/posts/Making-A-Better-Programming-Language/)
 <!-- BLOG-POST-LIST:END -->
