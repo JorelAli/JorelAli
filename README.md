@@ -3,7 +3,7 @@
 _I like compilers, Java, functional programming languages, programming language design and creating Bukkit plugins_
 
 - 🖥️ I'm currently maintaining the [CommandAPI](https://github.com/JorelAli/CommandAPI) Bukkit/Spigot/Paper/Velocity plugin
-- 🎮 I'm currently designing a Rust backend web-based equivalent of a physical card game that I created during a Game Jam while at University
+- 🪡🤺 I'm currently exploring new hobbies and have taken a break from programming in my spare time
 
 <div align="center">
   
